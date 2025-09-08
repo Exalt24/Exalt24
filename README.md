@@ -146,10 +146,10 @@ print("Thanks for stopping by! Let's build something that doesn't suck! 🚀")
 [![Code](https://img.shields.io/badge/See_The_Code-No_spaghetti_here-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Exalt24/RataTutor)
 
 **Finally, an AI that helps you study instead of doing your homework for you**
-- 🧠 Turns your messy notes into actual flashcards and quizzes
-- 🔐 Secured like Fort Knox (because I'm paranoid about data)
-- 🐳 Dockerized because deployment shouldn't be hell
-- 💡 Uses OpenRouter API (because OpenAI is expensive AF)
+🧠 Turns your messy notes into actual flashcards and quizzes
+🔐 Secured like Fort Knox (because I'm paranoid about data)
+🐳 Dockerized because deployment shouldn't be hell
+💡 Uses OpenRouter API (because OpenAI is expensive AF)
 
 *"It's like having a study buddy who never gets tired of your stupid questions"*
 
@@ -160,10 +160,10 @@ print("Thanks for stopping by! Let's build something that doesn't suck! 🚀")
 [![Code](https://img.shields.io/badge/Pure_Vanilla_JS-No_frameworks_harmed-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Exalt24/Dijkstraverse)
 
 **Because algorithms are cooler when you can actually see them work**
-- 🎯 Watch Dijkstra's algorithm find the shortest path in real-time
-- ⚡ Optimized with min-heap because performance matters
-- 🎨 Clean code that won't make you cry during code review
-- 🔥 Built with vanilla JS because sometimes you don't need a framework
+🎯 Watch Dijkstra's algorithm find the shortest path in real-time
+⚡ Optimized with min-heap because performance matters
+🎨 Clean code that won't make you cry during code review
+🔥 Built with vanilla JS because sometimes you don't need a framework
 
 *"Finally understood algorithms after building this. Visual learning FTW!"*
 
@@ -174,10 +174,10 @@ print("Thanks for stopping by! Let's build something that doesn't suck! 🚀")
 [![Code](https://img.shields.io/badge/Financial_Freedom-One_commit_at_a_time-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Exalt24/PennywAIse)
 
 **AI budgeting that actually makes sense (unlike your spending habits)**
-- 🤖 Smart expense categorization that learns from your chaos
-- 📊 Beautiful charts that make your poor financial decisions look pretty
-- 🔒 Bank-level security because I'm not trying to get sued
-- 💳 Tracks every peso so you know where your money disappears to
+🤖 Smart expense categorization that learns from your chaos
+📊 Beautiful charts that make your poor financial decisions look pretty
+🔒 Bank-level security because I'm not trying to get sued
+💳 Tracks every peso so you know where your money disappears to
 
 *"Helped me realize I spend way too much on coffee. Still buying coffee though."*
 
