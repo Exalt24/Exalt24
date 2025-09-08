@@ -8,7 +8,6 @@
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_network!-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dacruz24)
   [![Email](https://img.shields.io/badge/Email-Hit_me_up!-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dcruz@up.edu.ph)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-Check_it_out!-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](#)
   
   ![Profile Views](https://komarev.com/ghpvc/?username=Exalt24&color=blueviolet&style=for-the-badge&label=Curious+developers)
   
