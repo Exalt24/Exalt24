@@ -134,7 +134,7 @@ print("Thanks for stopping by! Let's build something that doesn't suck! 🚀")
   
 </div>
 
-*Yes, I code every day. No, I don't have a social life. Yes, I'm okay with this.*
+*Rookie numbers... am I right?*
 
 ---
 
