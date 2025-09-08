@@ -13,8 +13,6 @@
   
 </div>
 
----
-
 ## ⚠️ Who dares to skim shall face eternal merge conflicts!
 
 Okay, stop with the nerdy stuff for a sec. Here's the deal:
