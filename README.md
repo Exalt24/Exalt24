@@ -184,6 +184,8 @@ print("Thanks for stopping by! Let's build something that doesn't suck! 🚀")
 
 </div>
 
+---
+
 ## 🔒 The Vault (Private Arsenal)
 
 <div align="center">
