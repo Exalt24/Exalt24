@@ -236,7 +236,7 @@ print("Thanks for stopping by! Let's build something that doesn't suck! 🚀")
   
 </div>
 
-*Green squares = proof of life*
+*Green points = proof of life*
 
 ---
 
