@@ -1,4 +1,4 @@
-# What's up! I'm Daniel 🤙
+# Welcome! I'm Daniel (your friendly neighborhood dev) 🕷️
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=Breaking+things+to+make+them+secure+%F0%9F%94%A5;Full-stack+dev+who+actually+tests+in+prod+%F0%9F%98%8E;Building+AI+stuff+that+doesn't+suck+%F0%9F%A4%96;Cybersecurity+nerd+%26+code+addict+%F0%9F%92%89;From+Cebu+%F0%9F%87%B5%F0%9F%87%AD+conquering+the+digital+world+%F0%9F%8C%8D" alt="Typing SVG" />
@@ -16,9 +16,13 @@
 
 ---
 
-## 🔥 The Real Talk
+## ⚠️ Who dares to skim shall face eternal merge conflicts!
 
-Look, I'm just a guy from Cebu who got obsessed with making computers do cool stuff. Started hacking around in college, fell down the cybersecurity rabbit hole, and now I build things that are both **actually useful** and **ridiculously secure**.
+Okay, stop with the nerdy stuff for a sec. Here's the deal:
+
+**With great errors come lousy debugging skills... and I'm guilty as charged.** 🐛
+
+Look, I'm just some guy from Cebu who thought "hey, let's make computers do weird stuff" and somehow ended up down every possible tech rabbit hole. Started with basic HTML (we all did), got addicted to the dopamine hit of working code, and now I'm that person who gets genuinely excited about SQL injection vulnerabilities and thinks game loops are poetry.
 
 ```python
 class Daniel:
@@ -130,7 +134,7 @@ print("Thanks for stopping by! Let's build something that doesn't suck! 🚀")
   
 </div>
 
-*Rookie numbers, am I right?*
+*Yes, I code every day. No, I don't have a social life. Yes, I'm okay with this.*
 
 ---
 
@@ -177,6 +181,33 @@ print("Thanks for stopping by! Let's build something that doesn't suck! 🚀")
 - 💳 Tracks every peso so you know where your money disappears to
 
 *"Helped me realize I spend way too much on coffee. Still buying coffee though."*
+
+</div>
+
+---
+
+## 🔒 The Vault (Private Arsenal)
+
+<div align="center">
+
+*Some projects are too dangerous for public repos...*
+
+**🕵️ Project REDACTED** - *[CLASSIFIED]*  
+*Let's just say certain three-letter agencies would be very interested*
+
+**🎮 GameDev Experiments** - *[INVITE ONLY]*  
+*Building something that might revolutionize how we think about multiplayer games*  
+*DM me if you think you can handle the alpha*
+
+**🔐 Security Toolkit** - *[PRIVATE]*  
+*Tools that make penetration testing feel like cheating*  
+*No script kiddies allowed*
+
+**🤖 AI Research** - *[STEALTH MODE]*  
+*Teaching machines to be less stupid, one epoch at a time*  
+*Results so far: promising but terrifying*
+
+*Want access? Prove you're not a bot. Or a fed. Or both.*
 
 </div>
 
