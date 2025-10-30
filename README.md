@@ -115,8 +115,6 @@ AI-powered metaverse for gender-sensitive social-emotional education. Presenting
   
 </div>
 
-*The green squares are proof I touch grass between commits.*
-
 ## Let's talk tech (or argue about tabs vs spaces)
 
 I respond to emails surprisingly fast for someone who codes all day. Down for conversations about:
