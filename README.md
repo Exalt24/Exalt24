@@ -1,4 +1,4 @@
-# Daniel Cruz // Full-stack dev with a caffeine problem ☕
+# Daniel Alexis Cruz // Full-stack dev with a caffeine problem ☕
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=Building+stuff+that+hopefully+works+%F0%9F%92%BB;From+Cebu+%F0%9F%87%B5%F0%9F%87%AD+coding+at+weird+hours+%F0%9F%8C%99;Blockchain+%2B+AI+%2B+too+much+coffee+%E2%98%95;Stack+Overflow+is+my+second+home+%F0%9F%8F%A0" alt="Typing SVG" />
