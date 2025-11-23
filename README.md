@@ -2,7 +2,7 @@
 
 # Daniel Alexis Cruz
 
-### Full-Stack Developer | Browser Automation & Blockchain Specialist
+### Full-Stack Developer | AI, Blockchain & Cybersecurity Specialist
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=Building+production+systems+that+scale;Browser+automation+%2B+Blockchain+%2B+AI;From+Cebu+%F0%9F%87%B5%F0%9F%87%AD+shipping+code+globally;Recent+grad+with+production+experience" alt="Typing SVG" />
 
@@ -16,15 +16,15 @@
 
 UP Cebu Computer Science grad (Cum Laude) who builds production-ready systems. Did my internship at ChatGenie (Techstars '23) where I learned that shipping fast matters, but shipping secure matters more.
 
-Recently specialized in browser automation and blockchain development - built everything from distributed job processing systems to NFT marketplaces. Before that, led a 5-person team building an AI study assistant and presented research at Kyoto University in Japan.
+Recently specialized in AI integration, blockchain development, and cybersecurity - built everything from AI-powered educational platforms to NFT marketplaces and blockchain explorers. Led a 5-person team building an AI study assistant and presented research at Kyoto University in Japan. Google Cybersecurity certified with hands-on experience in security tools and secure system architecture.
 
 Currently working on MAGSEL, an AI-powered metaverse learning platform. Also maintaining AutoFlow Pro, a browser automation platform handling real workflows in production.
 
 ```javascript
 const daniel = {
   location: "Cebu, Philippines",
-  recentFocus: ["Browser Automation", "Blockchain/Web3", "AI Integration"],
-  currentStack: ["Next.js", "React", "Fastify", "Playwright", "Solidity"],
+  recentFocus: ["AI Integration", "Blockchain/Web3", "Cybersecurity"],
+  currentStack: ["Next.js", "React", "Solidity", "Playwright", "Django"],
   deploymentPhilosophy: "Free-tier infrastructure, production-grade results",
   certifications: ["Google Cybersecurity Specialization"]
 }
@@ -74,7 +74,7 @@ The interesting challenge was maintaining conversation continuity without overwh
 
 ## More Projects
 
-**AI Math Problem Generator** - Next.js + Google Gemini 2.0 Flash ([try it](https://math-problem-generator-one.vercel.app/) | [code](https://github.com/Exalt24/math-problem-generator))
+**AI Math Problem Generator** - Next.js + Google Gemini AI ([try it](https://math-problem-generator-one.vercel.app/) | [code](https://github.com/Exalt24/math-problem-generator))
 Generates personalized math problems for Primary 5 students with three difficulty tiers and progressive AI hints. Actually aligned with Singapore's Mathematics syllabus.
 
 **Dijkstraverse** - Vanilla JS pathfinding visualizer ([try it](https://dijkstraverse.vercel.app/) | [code](https://github.com/Exalt24/Dijkstraverse))
@@ -92,40 +92,40 @@ Built ChatDaters (dating platform) and ChatHotel (booking system) during 3-day s
 ## Technical Stack
 
 **Core Technologies**
-React, Next.js, Node.js, TypeScript, Python, Solidity
+React, Next.js, Vue.js, Node.js, TypeScript, JavaScript, Python, Solidity, Java
+
+**Frontend & Styling**
+HTML5, CSS3, Vite, Tailwind CSS
 
 **Browser Automation & Backend**
 Playwright, Puppeteer, Fastify, Django, Express, Ruby on Rails
 
 **Blockchain & Web3**
-Hardhat, ethers.js, OpenZeppelin, IPFS (Pinata)
+Hardhat, ethers.js
 
 **Databases**
 PostgreSQL, Supabase, MongoDB, SQLite, Firebase, Redis
 
-**Real-time Communication**
-WebSocket, Socket.IO
-
-**Job Processing & Queues**
-BullMQ
+**Real-time Communication & Job Queues**
+WebSocket, Socket.IO, BullMQ
 
 **AI Integration**
-Google Gemini AI, Claude, OpenRouter API, n8n
+Google Gemini AI, ChatGPT, Claude, n8n
 
 **Security & Network Analysis**
 Wireshark, Splunk, Burp Suite, Metasploit
 
 **Storage & CDN**
-IPFS, Pinata, AWS S3, Cloudflare R2
+IPFS, AWS S3, Cloudflare R2
 
 **DevOps & Deployment**
-Docker, Vercel, Render, AWS EC2, Upstash, Linux, Git, CI/CD
+Docker, Vercel, Render, AWS, Linux, Git
 
 **Mobile & Game Dev**
 React Native, Flutter, Unity, Godot
 
 **Testing**
-Hardhat tests, integration testing, E2E testing
+Integration testing, E2E testing
 
 ## Stats
 
