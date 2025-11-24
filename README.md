@@ -124,9 +124,6 @@ Docker, Vercel, Render, AWS, Linux, Git
 **Mobile & Game Dev**
 React Native, Flutter, Unity, Godot
 
-**Testing**
-Integration testing, E2E testing
-
 ## Stats
 
 <div align="center">
