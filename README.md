@@ -6,6 +6,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=Building+production+systems+that+scale;Browser+automation+%2B+Blockchain+%2B+AI;From+Cebu+%F0%9F%87%B5%F0%9F%87%AD+shipping+code+globally;Recent+grad+with+production+experience" alt="Typing SVG" />
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-dacruz.vercel.app-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white)](https://dacruz.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dacruz24)
 [![Email](https://img.shields.io/badge/Email-dcruz@up.edu.ph-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dcruz@up.edu.ph)
 ![Profile Views](https://komarev.com/ghpvc/?username=Exalt24&color=blueviolet&style=for-the-badge)
@@ -145,6 +146,7 @@ Building something interesting? Want to talk about browser automation, blockchai
 
 <div align="center">
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-dacruz.vercel.app-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white)](https://dacruz.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dacruz24)
 [![Email](https://img.shields.io/badge/Email-dcruz@up.edu.ph-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dcruz@up.edu.ph)
 
