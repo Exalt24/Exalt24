@@ -4,7 +4,7 @@
 
 ### Full-Stack Developer | AI, Blockchain & Cybersecurity Specialist
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=Building+production+systems+that+scale;Browser+automation+%2B+Blockchain+%2B+AI;From+Cebu+%F0%9F%87%B5%F0%9F%87%AD+shipping+code+globally;Recent+grad+with+production+experience" alt="Typing SVG" />
+<img src="https://readme-typing-svg-pearl.vercel.app?font=Fira+Code&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=Building+production+systems+that+scale;Browser+automation+%2B+Blockchain+%2B+AI;From+Cebu+%F0%9F%87%B5%F0%9F%87%AD+shipping+code+globally;Recent+grad+with+production+experience" alt="Typing SVG" />
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-dacruz.vercel.app-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white)](https://dacruz.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dacruz24)
