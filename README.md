@@ -8,7 +8,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-dacruz.vercel.app-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white)](https://dacruz.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dacruz24)
-[![Email](https://img.shields.io/badge/Email-dcruz@up.edu.ph-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dcruz@up.edu.ph)
+[![Email](https://img.shields.io/badge/Email-danielalexiscruz.pro@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danielalexiscruz.pro@gmail.com)
 ![Profile Views](https://komarev.com/ghpvc/?username=Exalt24&color=blueviolet&style=for-the-badge)
 
 </div>
@@ -129,14 +129,14 @@ React Native, Flutter, Unity, Godot
 
 <div align="center">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Exalt24&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Exalt24&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats-opal-eight-77.vercel.app/api?username=Exalt24&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-opal-eight-77.vercel.app/api/top-langs/?username=Exalt24&layout=compact&langs_count=7&theme=tokyonight"/>
 
 </div>
 
 <div align="center">
 
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=Exalt24&theme=tokyonight)](https://git.io/streak-stats)
+  [![GitHub Streak](https://github-readme-streak-stats-pearl-one.vercel.app/?user=Exalt24&theme=tokyonight)](https://git.io/streak-stats)
 
 </div>
 
@@ -148,7 +148,7 @@ Building something interesting? Want to talk about browser automation, blockchai
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-dacruz.vercel.app-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white)](https://dacruz.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dacruz24)
-[![Email](https://img.shields.io/badge/Email-dcruz@up.edu.ph-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dcruz@up.edu.ph)
+[![Email](https://img.shields.io/badge/Email-danielalexiscruz.pro@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danielalexiscruz.pro@gmail.com)
 
 </div>
 
