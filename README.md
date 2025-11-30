@@ -100,6 +100,9 @@ Built ChatDaters (dating platform) and ChatHotel (booking system) during 3-day s
 
 ## Technical Stack
 
+**AI & RAG (Latest Focus)**
+LangChain, Vector Databases (Chroma, Qdrant), Sentence Transformers, Ollama, Groq, HuggingFace, FastAPI, Hybrid Search, Cross-Encoder Reranking, Prompt Engineering
+
 **Core Technologies**
 React, Next.js, Vue.js, Node.js, TypeScript, JavaScript, Python, Solidity, Java
 
@@ -119,7 +122,7 @@ PostgreSQL, Supabase, MongoDB, SQLite, Firebase, Redis
 WebSocket, Socket.IO, BullMQ
 
 **AI Integration**
-Google Gemini AI, ChatGPT, Claude, n8n
+Google Gemini AI, ChatGPT, Claude, n8n, OpenRouter
 
 **Security & Network Analysis**
 Wireshark, Splunk, Burp Suite, Metasploit
