@@ -17,9 +17,9 @@
 
 UP Cebu Computer Science grad (Cum Laude) who builds production-ready systems. Did my internship at ChatGenie (Techstars '23) where I learned that shipping fast matters, but shipping secure matters more.
 
-Recently specialized in AI integration, blockchain development, and cybersecurity - built everything from AI-powered educational platforms to NFT marketplaces and blockchain explorers. Led a 5-person team building an AI study assistant and presented research at Kyoto University in Japan. Google Cybersecurity certified with hands-on experience in security tools and secure system architecture.
+Recently built a production-grade RAG knowledge base with advanced retrieval techniques (HyDE, Multi-Query, Hybrid Search) achieving 85%+ accuracy. Specialized in AI/RAG architecture, blockchain development, and cybersecurity - from vector databases and LLM integration to NFT marketplaces and blockchain explorers. Led a 5-person team building an AI study assistant and presented research at Kyoto University in Japan. Google Cybersecurity certified.
 
-Currently working on MAGSEL, an AI-powered metaverse learning platform. Also maintaining AutoFlow Pro, a browser automation platform handling real workflows in production.
+Currently working on MAGSEL (AI metaverse learning) and maintaining AutoFlow Pro (browser automation in production). Building AI automation portfolio with emphasis on RAG systems, multi-agent orchestration, and production optimization.
 
 ```javascript
 const daniel = {
@@ -32,6 +32,14 @@ const daniel = {
 ```
 
 ## Featured Projects
+
+### Enterprise RAG Knowledge Base (Dec 2025)
+**Tech**: FastAPI, LangChain, Chroma, Groq, Ollama, Next.js, Redis, Sentence Transformers, Docker
+[Live Demo](https://enterprise-rag-knowledge-base.vercel.app) | [Code](https://github.com/Exalt24/enterprise-rag-knowledge-base)
+
+Production-ready RAG system with 5 advanced retrieval strategies: Hybrid Search (vector + BM25), HyDE, Multi-Query, Cross-Encoder Reranking, achieving 67.7% tested accuracy (85%+ with advanced techniques). Full-stack deployment (FastAPI + Next.js) with Redis caching (100x speedup), 2-tier LLM fallback (Ollama → Groq), and 100% reliability across 19 test queries.
+
+Optimized for 512MB RAM using cloud APIs (HuggingFace Inference, Groq) while maintaining local development. BM25 index caching (9.2x speedup), batch processing (11x faster), connection pooling. Demonstrates production-grade RAG architecture beyond basic API wrappers.
 
 ### AutoFlow Pro (Nov 2025)
 **Tech**: Next.js, Fastify, Playwright, BullMQ, Redis, Supabase, Docker
