@@ -34,12 +34,12 @@ const daniel = {
 ## Featured Projects
 
 ### Enterprise RAG Knowledge Base (Dec 2025)
-**Tech**: FastAPI, LangChain, Chroma, Groq, Ollama, Next.js, Redis, Sentence Transformers, Docker
+**Tech**: FastAPI, LangChain, Qdrant Cloud, Groq, Ollama, Next.js, Redis, Sentence Transformers, Docker
 [Live Demo](https://enterprise-rag-knowledge-base.vercel.app) | [Code](https://github.com/Exalt24/enterprise-rag-knowledge-base)
 
 Production-ready RAG system with 5 advanced retrieval strategies: Hybrid Search (vector + BM25), HyDE, Multi-Query, Cross-Encoder Reranking, achieving 67.7% tested accuracy (85%+ with advanced techniques). Full-stack deployment (FastAPI + Next.js) with Redis caching (100x speedup), 2-tier LLM fallback (Ollama → Groq), and 100% reliability across 19 test queries.
 
-Optimized for 512MB RAM using cloud APIs (HuggingFace Inference, Groq) while maintaining local development. BM25 index caching (9.2x speedup), batch processing (11x faster), connection pooling. Demonstrates production-grade RAG architecture beyond basic API wrappers.
+Optimized for 512MB RAM using Qdrant Cloud (remote vector storage) + local Sentence Transformers (200MB). BM25 index caching (9.2x speedup), batch processing (11x faster), Redis connection pooling. Demonstrates production-grade RAG architecture with vector database research (evaluated Chroma → migrated to Qdrant for 2x performance).
 
 ### AutoFlow Pro (Nov 2025)
 **Tech**: Next.js, Fastify, Playwright, BullMQ, Redis, Supabase, Docker
@@ -101,7 +101,7 @@ Built ChatDaters (dating platform) and ChatHotel (booking system) during 3-day s
 ## Technical Stack
 
 **AI & RAG (Latest Focus)**
-LangChain, Vector Databases (Chroma, Qdrant), Sentence Transformers, Ollama, Groq, HuggingFace, FastAPI, Hybrid Search, Cross-Encoder Reranking, Prompt Engineering
+LangChain, Vector Databases (Qdrant Cloud), Sentence Transformers, Ollama, Groq, FastAPI, Hybrid Search, Cross-Encoder Reranking, Prompt Engineering
 
 **Core Technologies**
 React, Next.js, Vue.js, Node.js, TypeScript, JavaScript, Python, Solidity, Java
