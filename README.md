@@ -15,11 +15,11 @@
 
 ## About Me
 
-UP Cebu Computer Science grad (Cum Laude) who builds production-ready systems. Did my internship at ChatGenie (Techstars '23) where I learned that shipping fast matters, but shipping secure matters more.
+UP Cebu Computer Science grad (Cum Laude) who builds production-ready AI systems. Did my internship at ChatGenie (Techstars '23) where I learned that shipping fast matters, but shipping secure matters more.
 
-Recently built a production-grade RAG knowledge base with advanced retrieval techniques (HyDE, Multi-Query, Hybrid Search) achieving 85%+ accuracy. Specialized in AI/RAG architecture, blockchain development, and cybersecurity - from vector databases and LLM integration to NFT marketplaces and blockchain explorers. Led a 5-person team building an AI study assistant and presented research at Kyoto University in Japan. Google Cybersecurity certified.
+Recently architected multi-agent AI platform with 7 specialized agents orchestrated by LangGraph, reducing 6-8 hour research tasks to 1.75 minutes (200x+ faster) through strategic coordination and parallel execution. Also built production-grade RAG knowledge base with advanced retrieval techniques (HyDE, Multi-Query, Hybrid Search) achieving 85%+ accuracy. Specialized in AI/RAG architecture, multi-agent systems, and distributed automation - from vector databases and LangGraph orchestration to browser automation and blockchain development. Led a 5-person team building an AI study assistant and presented research at Kyoto University in Japan. Google Cybersecurity certified.
 
-Currently working on MAGSEL (AI metaverse learning) and maintaining AutoFlow Pro (browser automation in production). Building AI automation portfolio with emphasis on RAG systems, multi-agent orchestration, and production optimization.
+Currently working on MAGSEL (AI metaverse learning) and maintaining AutoFlow Pro (browser automation in production). Building AI automation portfolio with emphasis on multi-agent orchestration, RAG systems, and production optimization on free-tier infrastructure.
 
 ```javascript
 const daniel = {
@@ -32,6 +32,14 @@ const daniel = {
 ```
 
 ## Featured Projects
+
+### Multi-Agent Market Research Platform (Dec 2025)
+**Tech**: LangGraph, FastAPI, Next.js 16, Ollama, Groq, Redis, Tavily, Chart.js, tiktoken, Docker
+[Live Demo](https://multi-agent-research-frontend.vercel.app) | [Code](https://github.com/Exalt24/multi-agent-research)
+
+Multi-agent AI system orchestrating 7 specialized agents with LangGraph achieving 200x+ faster research (6-8 hours → 1.75 minutes). Strategic coordinator generates JSON guidance (objectives, priorities, comparison angles) used by all downstream agents. Parallel execution architecture (2 stages) delivers 30% performance improvement (105s vs 150s sequential). Human-in-the-Loop quality gates with approval UI, keyword-based triggering, and timeout handling.
+
+Production features: Redis caching (5-10x speedup, protects Tavily's 500/month quota), accurate token counting with tiktoken (0% error vs 22.9% estimation), Chart.js visualizations with PDF export, real-time WebSocket monitoring (6 message types), rate limiting (5 req/min), microservices integration with Project 1 RAG API. Deployed on $0/month free tier (Groq, Tavily, Redis Cloud, Render, Vercel) with comprehensive resilience patterns.
 
 ### Enterprise RAG Knowledge Base (Dec 2025)
 **Tech**: FastAPI, LangChain, Qdrant Cloud, Groq, Ollama, Next.js, Redis, Sentence Transformers, Docker
@@ -101,7 +109,7 @@ Built ChatDaters (dating platform) and ChatHotel (booking system) during 3-day s
 ## Technical Stack
 
 **AI & RAG (Latest Focus)**
-LangChain, Vector Databases (Qdrant Cloud), Sentence Transformers, Ollama, Groq, FastAPI, Hybrid Search, Cross-Encoder Reranking, Prompt Engineering
+LangGraph, LangChain, Multi-Agent Systems, RAG Architecture, Vector Databases (Qdrant, Chroma), LLM Integration, Prompt Engineering, FastAPI, Hybrid Search, Cross-Encoder Reranking, Human-in-the-Loop (HITL)
 
 **Core Technologies**
 React, Next.js, Vue.js, Node.js, TypeScript, JavaScript, Python, Solidity, Java
