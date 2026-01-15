@@ -15,7 +15,7 @@
 
 ## About Me
 
-UP Cebu Computer Science grad (Cum Laude) who builds production-ready AI systems. Did my internship at ChatGenie (Techstars '23) where I learned that shipping fast matters, but shipping secure matters more.
+UP Cebu Computer Science grad who builds production-ready AI systems. Did my internship at ChatGenie (Techstars '23) where I learned that shipping fast matters, but shipping secure matters more.
 
 Recently architected multi-agent AI platform with 7 specialized agents orchestrated by LangGraph, reducing 6-8 hour research tasks to 1.75 minutes (200x+ faster) through strategic coordination and parallel execution. Also built production-grade RAG knowledge base with advanced retrieval techniques (HyDE, Multi-Query, Hybrid Search) achieving 85%+ accuracy. Specialized in AI/RAG architecture, multi-agent systems, and distributed automation - from vector databases and LangGraph orchestration to browser automation and blockchain development. Led a 5-person team building an AI study assistant and presented research at Kyoto University in Japan. Google Cybersecurity certified.
 
@@ -27,13 +27,14 @@ const daniel = {
   recentFocus: ["AI Integration", "Blockchain/Web3", "Cybersecurity"],
   currentStack: ["Next.js", "React", "Solidity", "Playwright", "Django"],
   deploymentPhilosophy: "Free-tier infrastructure, production-grade results",
-  certifications: ["Google Cybersecurity Specialization"]
-}
+  certifications: ["Google Cybersecurity Specialization"],
+};
 ```
 
 ## Featured Projects
 
 ### Multi-Agent Market Research Platform (Dec 2025)
+
 **Tech**: LangGraph, FastAPI, Next.js 16, Ollama, Groq, Redis, Tavily, Chart.js, tiktoken, Docker
 [Live Demo](https://multi-agent-research-frontend.vercel.app) | [Code](https://github.com/Exalt24/multi-agent-research)
 
@@ -42,6 +43,7 @@ Multi-agent AI system orchestrating 7 specialized agents with LangGraph achievin
 Production features: Redis caching (5-10x speedup, protects Tavily's 500/month quota), accurate token counting with tiktoken (0% error vs 22.9% estimation), Chart.js visualizations with PDF export, real-time WebSocket monitoring (6 message types), rate limiting (5 req/min), microservices integration with Project 1 RAG API. Deployed on $0/month free tier (Groq, Tavily, Redis Cloud, Render, Vercel) with comprehensive resilience patterns.
 
 ### Enterprise RAG Knowledge Base (Dec 2025)
+
 **Tech**: FastAPI, LangChain, Qdrant Cloud, Groq, Ollama, Next.js, Redis, Sentence Transformers, Docker
 [Live Demo](https://enterprise-rag-knowledge-base.vercel.app) | [Code](https://github.com/Exalt24/enterprise-rag-knowledge-base)
 
@@ -50,6 +52,7 @@ Production-ready RAG system with 5 advanced retrieval strategies: Hybrid Search 
 Optimized for 512MB RAM using Qdrant Cloud (remote vector storage) + local Sentence Transformers (200MB). BM25 index caching (9.2x speedup), batch processing (11x faster), Redis connection pooling. Demonstrates production-grade RAG architecture with vector database research (evaluated Chroma → migrated to Qdrant for 2x performance).
 
 ### AutoFlow Pro (Nov 2025)
+
 **Tech**: Next.js, Fastify, Playwright, BullMQ, Redis, Supabase, Docker
 [Live Demo](https://autoflow-pro.vercel.app/) | [Code](https://github.com/Exalt24/autoflow-pro)
 
@@ -58,6 +61,7 @@ Production-ready browser automation platform with visual workflow builder. Featu
 Deployed on free-tier infrastructure (Vercel, Render, Supabase, Upstash Redis, Cloudflare R2) while maintaining <3s page load times and <500ms API response times. Includes enterprise security (RLS, rate limiting, input sanitization) and comprehensive testing (30+ test files).
 
 ### NFT Trading Platform (Oct 2025)
+
 **Tech**: Solidity, Hardhat, React, Node.js, PostgreSQL, IPFS, Docker
 [Code](https://github.com/Exalt24/NFT-Trading)
 
@@ -66,6 +70,7 @@ Full-stack NFT marketplace with ERC-721 smart contracts, batch minting (up to 20
 52 smart contract tests and 50+ integration tests covering the complete lifecycle. Built to understand Web3 properly - not just another tutorial project.
 
 ### Blockchain Explorer (Oct 2025)
+
 **Tech**: Solidity, React, Node.js, PostgreSQL, WebSocket, Docker
 [Code](https://github.com/Exalt24/Blockchain-Explorer)
 
@@ -74,6 +79,7 @@ Real-time blockchain event indexing with interactive analytics. In-memory LRU ca
 Batch processing handles 50 events at once with WebSocket throttling for live updates. Features player leaderboards, event distribution charts, and timeline visualization.
 
 ### MiniWorld (Oct 2025)
+
 **Tech**: Solidity, React, TypeScript, Node.js, PostgreSQL, Socket.IO, Docker
 [Code](https://github.com/Exalt24/Miniworld)
 
@@ -82,6 +88,7 @@ Web3 gaming platform with on-chain mechanics. 10x10 grid where players claim til
 Dual frontends (Canvas game client and creator dashboard with analytics) both consuming the centralized SDK. One-command Docker deployment.
 
 ### RataTutor (May 2025)
+
 **Tech**: Django, React, Docker, OpenRouter API
 [Live Demo](https://ratatutor.onrender.com/) | [Code](https://github.com/Exalt24/RataTutor)
 
@@ -155,7 +162,7 @@ React Native, Flutter, Unity, Godot
 
 <div align="center">
 
-  [![GitHub Streak](https://github-readme-streak-stats-pearl-one.vercel.app/?user=Exalt24&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-pearl-one.vercel.app/?user=Exalt24&theme=tokyonight)](https://git.io/streak-stats)
 
 </div>
 
@@ -175,8 +182,8 @@ Building something interesting? Want to talk about browser automation, blockchai
 
 <div align="center">
 
-  ![Snake animation](https://github.com/Exalt24/Exalt24/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Exalt24/Exalt24/blob/output/github-contribution-grid-snake.svg)
 
-  *Currently shipping code from Cebu. Open to remote opportunities.*
+_Currently shipping code from Cebu. Open to remote opportunities._
 
 </div>
