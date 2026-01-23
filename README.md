@@ -2,12 +2,33 @@
 
 # Daniel Alexis Cruz
 
-```
-┌─────────────────────────────────────────┐
-│  AI · Blockchain · Security             │
-│  Building at the intersection.          │
-└─────────────────────────────────────────┘
-```
+<table>
+<tr>
+<td align="center" width="200">
+🤖
+<br><br>
+<b>AI & Multi-Agent</b>
+<br>
+<sub>LangGraph · RAG</sub>
+</td>
+<td align="center" width="200">
+⛓️
+<br><br>
+<b>Blockchain & Web3</b>
+<br>
+<sub>Solidity · Smart Contracts</sub>
+</td>
+<td align="center" width="200">
+🔒
+<br><br>
+<b>Security Architecture</b>
+<br>
+<sub>Google Certified</sub>
+</td>
+</tr>
+</table>
+
+**Building at the intersection**
 
 **Full-Stack Developer** | Cebu, Philippines 🇵🇭
 
@@ -246,12 +267,7 @@ I'm shipping code from Cebu and open to remote opportunities.
 
 ---
 
-```
-┌─────────────────────────────────────────┐
-│  "Production-grade results,             │
-│   free-tier constraints."               │
-└─────────────────────────────────────────┘
-```
+### 💭 "Production-grade results, free-tier constraints."
 
 *Currently exploring: Multi-agent workflow optimization, RAG retrieval techniques, Web3 gaming mechanics*
 
