@@ -96,6 +96,15 @@ Led 5-person team building AI study assistant that transforms notes (PDF, DOCX, 
 
 The interesting challenge was maintaining conversation continuity without overwhelming the AI - turns out context limits matter just like they do for humans cramming at 2 AM.
 
+### MAGSEL - AI Metaverse Learning Platform (Dec 2024)
+
+**Tech**: Unity, Flask, PyTorch, Hugging Face Transformers, DistilBERT
+[Research Presentation](https://wills2025.com)
+
+Unity-based metaverse learning platform with custom emotion classification system. Fine-tuned DistilBERT model achieving 92.45% accuracy (0.9255 F1 score) on emotion detection for real-time student sentiment analysis. Built complete ML pipeline with Hugging Face Transformers and PyTorch, integrated with Flask backend for real-time inference in virtual learning environments.
+
+Research presented at WILLS 2025 Conference, Kyoto University of Foreign Studies, Japan. Demonstrates ML engineering capabilities beyond API integration - dataset preparation, model fine-tuning, evaluation, and production deployment.
+
 ## More Projects
 
 **AI Math Problem Generator** - Next.js + Google Gemini AI ([try it](https://math-problem-generator-one.vercel.app/) | [code](https://github.com/Exalt24/math-problem-generator))
