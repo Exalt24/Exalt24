@@ -9,7 +9,7 @@
 <br><br>
 <b>AI & Multi-Agent</b>
 <br>
-<sub>LangGraph · RAG</sub>
+<sub>LangGraph · RAG · PyTorch</sub>
 </td>
 <td align="center" width="200">
 ⛓️
@@ -23,14 +23,14 @@
 <br><br>
 <b>Security Architecture</b>
 <br>
-<sub>Google Certified</sub>
+<sub>Google Certified · RLS</sub>
 </td>
 </tr>
 </table>
 
-**Building at the intersection**
+**Building at the intersection of AI & Web3**
 
-**Full-Stack Developer** | Cebu, Philippines 🇵🇭
+**Full-Stack Developer** | Philippines (Remote) 🇵🇭
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-dacruz.vercel.app-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white)](https://dacruz.vercel.app) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dacruz24) [![Email](https://img.shields.io/badge/Email-danielalexiscruz.pro@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danielalexiscruz.pro@gmail.com)
 
@@ -40,7 +40,7 @@
 
 ## Who I Am
 
-UP Cebu Computer Science grad, currently shipping full-stack applications at JinFortis Digital with Django and React.
+UP Cebu Computer Science grad (Cum Laude), recently completed a contract at JinFortis Digital shipping full-stack applications with Django and React.
 
 Did my internship at ChatGenie (Techstars '23), where I learned to build complete applications from scratch in 3-day sprints using technologies I'd never touched before. Turns out the best way to learn Rails and Vue.js is under pressure.
 
@@ -48,42 +48,37 @@ Recently built a **multi-agent AI system** that reduces 6-8 hour research tasks 
 
 Also architected a **production RAG system** where retrieval quality mattered more than LLM quality, and a **distributed browser automation platform** that taught me WebSocket + job queues is a powerful combination.
 
-I work at the intersection of **AI, Blockchain, and Security**. Not because they're trendy, but because they're where interesting problems live.
+I build at the intersection of **AI and Web3** - not because they're trendy, but because they're where interesting problems live. Security is an architectural decision in every system I ship.
 
-Started October 2025 learning Solidity from scratch, by November I was building distributed job processing systems, by December I was orchestrating multi-agent workflows.
-
-**Google Cybersecurity certified** because security isn't something you add later, it's an architectural decision.
+Started October 2025 learning Solidity from scratch, by November I was building distributed job processing systems, by December I was orchestrating multi-agent workflows. **Google Cybersecurity certified.**
 
 ```javascript
 const daniel = {
-  location: "Cebu, Philippines",
+  location: "Philippines (Remote)",
   focus: ["AI & Multi-Agent Systems", "Blockchain & Web3", "Security Architecture"],
-  current: ["Full-Stack Development", "Production Systems", "Free-Tier Optimization"],
+  recent: "Full-Stack Developer @ JinFortis Digital (Nov 2025 - Mar 2026)",
   approach: "Strategic coordination beats dynamic routing",
 };
 ```
 
 ---
 
-## The Trinity
+## What I Build
 
 ### 🤖 AI & Multi-Agent Systems
 
 Built multi-agent orchestration system coordinating **7 specialized agents** with LangGraph, reducing **6-8 hour research to 1.75 minutes**.
 
-Implemented strategic guidance pattern where all agents run with shared JSON objectives. Turns out strategic coordination beats dynamic routing.
+Implemented strategic guidance pattern where all agents run with shared JSON objectives. Strategic coordination beats dynamic routing.
 
-Architected production RAG system with **5 retrieval strategies**, achieving **67.7% → 85%+ accuracy** through hybrid search and cross-encoder reranking.
+Architected production RAG system with **5 retrieval strategies**, achieving **67.7% → 85%+ accuracy** through hybrid search and cross-encoder reranking. Fine-tuned DistilBERT emotion classifier achieving **92.45% accuracy** for MAGSEL research (presented at WILLS 2025, Kyoto).
 
 **What I learned:**
+- Retrieval quality matters more than LLM quality in RAG systems
+- Token counting accuracy with `tiktoken` revealed 72% undercounting in some agents
+- Parallel execution with memory-safe state merging patterns apply everywhere
 
-Retrieval quality matters more than LLM quality in RAG systems.
-
-Token counting accuracy with `tiktoken` revealed we were undercounting by 72% in some agents, critical for context management.
-
-Parallel execution with LangGraph's `operator.add` for safe state merging taught me memory-safe concurrent patterns apply everywhere.
-
-**Stack:** LangGraph, LangChain, FastAPI, Qdrant, Redis, Ollama, Groq, Sentence Transformers, BullMQ
+**Stack:** LangGraph, LangChain, FastAPI, Qdrant, Redis, PyTorch, Hugging Face Transformers
 
 ---
 
@@ -96,14 +91,9 @@ Built **blockchain explorer** achieving **8-10x performance** through LRU cachin
 Comprehensive testing: **52 contract tests plus 50+ integration tests**. Not just another tutorial project.
 
 **What I learned:**
-
-Gas optimization is an art.
-
-Smart contract testing isn't optional, production systems need comprehensive coverage.
-
-Architectural decisions matter more than code-level optimizations.
-
-Building SDK taught me that good abstraction means hiding complexity without sacrificing control.
+- Gas optimization is an art
+- Smart contract testing isn't optional - production systems need comprehensive coverage
+- Good abstraction means hiding complexity without sacrificing control
 
 **Stack:** Solidity, Hardhat, ethers.js, OpenZeppelin, IPFS, WebSocket, TypeScript, PostgreSQL
 
@@ -115,17 +105,10 @@ Building SDK taught me that good abstraction means hiding complexity without sac
 
 Implemented enterprise patterns across projects: **Row-Level Security (RLS)** for multi-tenant isolation, **rate limiting** (100 req/15min), **input sanitization** against injection attacks, secure credential storage, 2-tier fallbacks for reliability.
 
-Applied security thinking from internship where I learned shipping secure matters more than shipping fast.
-
 **What I learned:**
-
-Security is infrastructure.
-
-RLS at database level beats application-layer checks.
-
-Rate limiting protects both your quotas and your users.
-
-Free-tier constraints force production patterns: graceful degradation, quota protection, resilience by default.
+- RLS at database level beats application-layer checks
+- Rate limiting protects both your quotas and your users
+- Free-tier constraints force production patterns: graceful degradation, quota protection, resilience by default
 
 **Stack:** PostgreSQL RLS, Rate Limiting, Input Sanitization, Wireshark, Splunk, Burp Suite, Metasploit
 
@@ -138,19 +121,7 @@ Free-tier constraints force production patterns: graceful degradation, quota pro
 
 [Live Demo](https://multi-agent-research-frontend.vercel.app) | [Code](https://github.com/Exalt24/multi-agent-research)
 
-Seven specialized agents orchestrated by LangGraph, turning **6-8 hour manual research into 1.75 minutes**.
-
-The breakthrough was implementing **strategic guidance pattern** where the coordinator generates JSON objectives used by all agents, eliminating unreliable dynamic routing.
-
-Parallel execution (Research and Financial Intel concurrent, then Content and Visualization) delivers **30% speedup** while `operator.add` ensures memory-safe state merging.
-
-**Key insights:**
-
-Accurate token counting matters. Migrating from length estimation (22.9% error) to `tiktoken` with model auto-detection revealed we were undercounting by **72% in some agents**.
-
-Human-in-the-Loop quality gates with keyword detection, 5-min timeouts, and graceful continuation taught me workflows should catch issues automatically, not block progress.
-
-Redis caching protects Tavily's 500/month quota while delivering **5-10x speedups**.
+Seven specialized agents orchestrated by LangGraph, turning **6-8 hour manual research into 1.75 minutes**. Strategic guidance pattern with JSON objectives, parallel execution delivering **30% speedup**, Human-in-the-Loop quality gates, Redis caching protecting API quotas.
 
 ---
 
@@ -159,17 +130,7 @@ Redis caching protects Tavily's 500/month quota while delivering **5-10x speedup
 
 [Live Demo](https://enterprise-rag-knowledge-base.vercel.app) | [Code](https://github.com/Exalt24/enterprise-rag-knowledge-base)
 
-Production RAG system implementing **5 retrieval strategies**: Hybrid Search (vector 70% plus BM25 keyword 30%), HyDE, Multi-Query, Parent-Child, Cross-Encoder Reranking.
-
-Full-stack deployment (FastAPI and Next.js) with Redis caching (**100x speedup**), 2-tier LLM fallback (Ollama to Groq), and **100% reliability** across 19 test queries.
-
-**Key insight:**
-
-Retrieval quality beats LLM quality. A great LLM with poor retrieval hallucinates, but decent LLM with excellent retrieval gives accurate answers.
-
-Migrated from Chroma to Qdrant Cloud for **2x performance**. Sometimes best optimization is architectural (remote vs local storage) not code-level.
-
-Optimized for **512MB RAM** through strategic cloud API usage while maintaining local dev capabilities.
+Production RAG with **5 retrieval strategies**: Hybrid Search, HyDE, Multi-Query, Parent-Child, Cross-Encoder Reranking. Redis caching (**100x speedup**), 2-tier LLM fallback, **100% reliability** across 19 test queries. Migrated Chroma → Qdrant Cloud for **2x performance**.
 
 ---
 
@@ -178,19 +139,7 @@ Optimized for **512MB RAM** through strategic cloud API usage while maintaining 
 
 [Live Demo](https://autoflow-pro.vercel.app/) | [Code](https://github.com/Exalt24/autoflow-pro)
 
-Production-ready browser automation platform with visual drag-and-drop workflow builder featuring **23 step types**.
-
-Distributed job processing with BullMQ and Redis achieves **sub-100ms WebSocket latency** for real-time monitoring.
-
-Cron scheduling, automatic failure recovery, and Playwright browser pooling handle production workloads.
-
-**What I learned:**
-
-Built this to understand distributed systems architecture. Coordinating Playwright execution across workers while providing instant user feedback taught me WebSocket plus job queue patterns.
-
-Enterprise security through RLS (multi-tenant database isolation), rate limiting (100 req/15min), and input sanitization.
-
-Free-tier deployment (Vercel, Render, Supabase, Upstash, R2) maintaining **sub-3s page loads** and **sub-500ms API responses** proves constraints drive better architecture.
+Production browser automation platform with **23 step types**, visual drag-and-drop workflow builder, distributed job processing with BullMQ/Redis, **sub-100ms WebSocket latency**. Enterprise security (RLS, rate limiting, input sanitization).
 
 ---
 
@@ -199,30 +148,18 @@ Free-tier deployment (Vercel, Render, Supabase, Upstash, R2) maintaining **sub-3
 
 [Code](https://github.com/Exalt24/NFT-Trading)
 
-Full-stack NFT marketplace built in October 2025 while learning Solidity from scratch.
-
-ERC-721 smart contracts with **batch minting** (up to 20 NFTs), royalty management, real-time WebSocket trading feeds, and IPFS metadata storage.
-
-Analytics dashboard with Recharts tracking trading volume and creator metrics.
-
-**What I learned:**
-
-Comprehensive testing demonstrates production readiness with **52 smart contract tests plus 50+ integration tests** covering complete lifecycle.
-
-Built to understand Web3 properly through hands-on implementation, not just tutorials.
-
-Gas optimization taught me efficiency matters when users pay per operation.
+Full-stack NFT marketplace with ERC-721 smart contracts, **batch minting** (up to 20 NFTs), royalty management, real-time WebSocket trading feeds, IPFS metadata. Built in October 2025 while learning Solidity from scratch.
 
 ---
 
-*More projects:* [**Blockchain Explorer**](https://github.com/Exalt24/Blockchain-Explorer) (8-10x performance via LRU cache), [**MiniWorld**](https://github.com/Exalt24/Miniworld) (Web3 game with TypeScript SDK), [**Math Problem Generator**](https://math-problem-generator-one.vercel.app/) (Gemini AI education platform)
+*More projects:* [**Blockchain Explorer**](https://github.com/Exalt24/Blockchain-Explorer) (8-10x performance via LRU cache), [**MiniWorld**](https://github.com/Exalt24/Miniworld) (Web3 game with TypeScript SDK), [**MAGSEL**](https://github.com/Exalt24) (92.45% DistilBERT accuracy, WILLS 2025 Kyoto)
 
 ---
 
 ## Technical Arsenal
 
-### AI & RAG
-LangGraph, LangChain, Multi-Agent Systems, RAG Architecture, Vector Databases (Qdrant, Chroma), Hybrid Search, Cross-Encoder Reranking, Human-in-the-Loop (HITL), Prompt Engineering, FastAPI, Sentence Transformers
+### AI & Machine Learning
+LangGraph, LangChain, Multi-Agent Systems, RAG Architecture, Vector Databases (Qdrant, Chroma), Hybrid Search, Cross-Encoder Reranking, Human-in-the-Loop (HITL), Prompt Engineering, PyTorch, Hugging Face Transformers, Model Fine-Tuning, FastAPI
 
 ### Blockchain & Web3
 Solidity, Hardhat, ethers.js, OpenZeppelin, IPFS, Smart Contract Testing, Gas Optimization, Event Indexing
@@ -259,7 +196,7 @@ Proven track record learning under pressure: Rails and Vue.js in 3-day cycles at
 
 Building something interesting? Want to talk about multi-agent orchestration, smart contract architecture, or how to actually deploy on free-tier infrastructure without compromising quality?
 
-I'm shipping code from Cebu and open to remote opportunities.
+I'm shipping code from the Philippines and open to remote opportunities.
 
 <div align="center">
 
