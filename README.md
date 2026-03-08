@@ -116,6 +116,15 @@ Implemented enterprise patterns across projects: **Row-Level Security (RLS)** fo
 
 ## Featured Work
 
+### AreteusML
+**Production ML classification pipeline with end-to-end lifecycle management (Mar 2026)**
+
+[Code](https://github.com/Exalt24/AreteusML)
+
+Fine-tuned ModernBERT-base on Banking77 (77 classes) achieving **91.3% accuracy**, **4.52x inference speedup** with ONNX INT8 quantization. Automated drift detection with Evidently, A/B testing, feedback loops, and full CI/CD with GitHub Actions. Dagster orchestration, MLflow experiment tracking, Prometheus + Grafana monitoring, Docker Compose (5 services).
+
+---
+
 ### Multi-Agent Market Research Platform
 **200x faster research through strategic coordination**
 
@@ -158,8 +167,11 @@ Full-stack NFT marketplace with ERC-721 smart contracts, **batch minting** (up t
 
 ## Technical Arsenal
 
+### ML Engineering (Latest Focus)
+PyTorch, Hugging Face Transformers, ONNX Runtime, MLflow, Dagster, Evidently, SetFit, Streamlit, Pandera, DVC, scikit-learn
+
 ### AI & Machine Learning
-LangGraph, LangChain, Multi-Agent Systems, RAG Architecture, Vector Databases (Qdrant, Chroma), Hybrid Search, Cross-Encoder Reranking, Human-in-the-Loop (HITL), Prompt Engineering, PyTorch, Hugging Face Transformers, Model Fine-Tuning, FastAPI
+LangGraph, LangChain, Multi-Agent Systems, RAG Architecture, Vector Databases (Qdrant, Chroma), Hybrid Search, Cross-Encoder Reranking, Human-in-the-Loop (HITL), Prompt Engineering, Model Fine-Tuning, FastAPI
 
 ### Blockchain & Web3
 Solidity, Hardhat, ethers.js, OpenZeppelin, IPFS, Smart Contract Testing, Gas Optimization, Event Indexing
