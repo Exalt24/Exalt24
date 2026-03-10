@@ -40,7 +40,7 @@
 
 ## Who I Am
 
-UP Cebu Computer Science grad (Cum Laude), recently completed a contract at JinFortis Digital shipping full-stack applications with Django and React.
+UP Cebu Computer Science grad, recently completed a contract at JinFortis Digital shipping full-stack applications with Django and React.
 
 Did my internship at ChatGenie (Techstars '23), where I learned to build complete applications from scratch in 3-day sprints using technologies I'd never touched before. Turns out the best way to learn Rails and Vue.js is under pressure.
 
