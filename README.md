@@ -40,7 +40,7 @@
 
 ## Who I Am
 
-UP Cebu Computer Science grad, most recently wrapped a contract with Story Stream LLC as an AI Agent Engineer shipping across a production LLM manuscript-analysis platform (Next.js, TypeScript, Supabase, Stripe), and before that a full-stack contract at JinFortis Digital with Django and React.
+UP Cebu Computer Science grad who builds at the intersection of AI and Web3. Most recent work spans production LLM systems (multi-agent orchestration, RAG, an AI manuscript-analysis platform) and full-stack product engineering.
 
 Did my internship at ChatGenie (Techstars '23), where I learned to build complete applications from scratch in 3-day sprints using technologies I'd never touched before. Turns out the best way to learn Rails and Vue.js is under pressure.
 
@@ -56,7 +56,7 @@ Started October 2025 learning Solidity from scratch, by November I was building 
 const daniel = {
   location: "Philippines (Remote)",
   focus: ["AI & Multi-Agent Systems", "Blockchain & Web3", "Security Architecture"],
-  recent: "AI Agent Engineer @ Story Stream LLC (Contract, Mar - Jul 2026)",
+  recent: "AI Agent Engineer, Contract (LLM manuscript-analysis platform)",
   approach: "Strategic coordination beats dynamic routing",
 };
 ```
