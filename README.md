@@ -48,9 +48,9 @@ Recently built a **multi-agent AI system** that reduces 6-8 hour research tasks 
 
 Also architected a **production RAG system** where retrieval quality mattered more than LLM quality, and a **distributed browser automation platform** that taught me WebSocket + job queues is a powerful combination.
 
-I build at the intersection of **AI and Web3** - not because they're trendy, but because they're where interesting problems live. Security is an architectural decision in every system I ship.
+I build at the intersection of **AI and Web3** because that is where the interesting problems are. Security is an architectural decision in every system I ship.
 
-Started October 2025 learning Solidity from scratch, by November I was building distributed job processing systems, by December I was orchestrating multi-agent workflows. **Google Cybersecurity certified.** Anthropic certified in Claude Code, the Claude API, MCP and agent skills.
+I picked up Solidity from scratch in October 2025 and had an NFT marketplace shipped by the end of the month. **Google Cybersecurity certified.** Anthropic certified in Claude Code, the Claude API, MCP and agent skills.
 
 ```javascript
 const daniel = {
