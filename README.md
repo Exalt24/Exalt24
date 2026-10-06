@@ -50,7 +50,7 @@ Also architected a **production RAG system** where retrieval quality mattered mo
 
 I build at the intersection of **AI and Web3** - not because they're trendy, but because they're where interesting problems live. Security is an architectural decision in every system I ship.
 
-Started October 2025 learning Solidity from scratch, by November I was building distributed job processing systems, by December I was orchestrating multi-agent workflows. **Google Cybersecurity certified.**
+Started October 2025 learning Solidity from scratch, by November I was building distributed job processing systems, by December I was orchestrating multi-agent workflows. **Google Cybersecurity certified.** Anthropic certified in Claude Code, the Claude API, MCP and agent skills.
 
 ```javascript
 const daniel = {
