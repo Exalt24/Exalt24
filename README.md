@@ -10,15 +10,15 @@ Portfolio: [dacruz.vercel.app](https://dacruz.vercel.app) | LinkedIn: [dacruz24]
 
 ## Recent work
 
-**[enterprise-rag-knowledge-base](https://github.com/Exalt24/enterprise-rag-knowledge-base)** is a FastAPI RAG service on Qdrant with vector, BM25 hybrid and optional reranking. I found a ranking bug that put the best results last, fixed it and re-measured: hit-at-one of 85% for vector and 90% for hybrid over 20 questions. I also took torch out of the deployed image so it fits a 512 MB instance. [Live demo](https://enterprise-rag-knowledge-base.vercel.app).
+**[enterprise-rag-knowledge-base](https://github.com/Exalt24/enterprise-rag-knowledge-base)** is a FastAPI RAG service on Qdrant with vector, BM25 hybrid and optional reranking. I found a ranking bug that put the best results last, fixed it and re-measured: hit-at-one of 85% for vector and 90% for hybrid over 20 questions. I also took torch out of the deployed image so it fits a 512 MB instance.
 
-**[multi-agent-research](https://github.com/Exalt24/multi-agent-research)** has seven LangGraph agents split a market research question. The fact checker can pause the run so a person decides whether to continue. [Live demo](https://multi-agent-research-frontend.vercel.app).
+**[multi-agent-research](https://github.com/Exalt24/multi-agent-research)** has seven LangGraph agents split a market research question. The fact checker can pause the run so a person decides whether to continue.
 
 **[clio-matter-bridge](https://github.com/Exalt24/clio-matter-bridge)** is a Clio integration with live OAuth, a webhook receiver checked against real signed deliveries, and a boundary that keeps anything identifying out of what is sent to a language model. It has 265 assertions, and each guard is proven by deleting it and watching the suite fail.
 
 **[api-analytics-hub](https://github.com/Exalt24/api-analytics-hub)** syncs a live Shopify store into Postgres with row-level security per tenant. Its isolation test caught a cross-tenant leak caused by a superuser connection. It also has an LLM copywriter that refuses to publish any number that is not in the source facts. The hosted demo is offline.
 
-**[clinic-call-console](https://github.com/Exalt24/clinic-call-console)** is an Angular and Spring Boot console for reviewing voice-assistant calls. Details are masked when a call arrives, an admin has to give a reason to reveal one, and every reveal is audited in the same transaction. Synthetic data only. [Live demo](https://clinic-call-console.vercel.app).
+**[clinic-call-console](https://github.com/Exalt24/clinic-call-console)** is an Angular and Spring Boot console for reviewing voice-assistant calls. Details are masked when a call arrives, an admin has to give a reason to reveal one, and every reveal is audited in the same transaction. Synthetic data only.
 
 **[ghl-tenant-bridge](https://github.com/Exalt24/ghl-tenant-bridge)** connects GoHighLevel to Supabase with PostGIS radius matching and an offline capture queue for field crews.
 
