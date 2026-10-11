@@ -1,8 +1,8 @@
 # Daniel Alexis Cruz
 
-AI agent engineer in Cebu, working remote. I build multi-agent workflows and RAG services in Python and TypeScript, and the API and webhook integrations around them. A wrong answer should get caught before a client sees it, so I put human approval steps, error handling and tests in from the start.
+**I build AI agents, then try to break them.**
 
-I graduated from UP Cebu with a Computer Science degree in 2025 and I work in Claude Code every day. I also completed Anthropic's courses on Claude Code, the Claude API, Model Context Protocol and agent skills.
+Multi-agent workflows, RAG services and the webhooks and APIs that hook them up to real businesses, in Python and TypeScript. I don't trust a safety check until I've deleted it and watched a test fail. Cebu, working remote.
 
 Portfolio: [dacruz.vercel.app](https://dacruz.vercel.app) | LinkedIn: [dacruz24](https://linkedin.com/in/dacruz24) | Email: [danielalexiscruz.pro@gmail.com](mailto:danielalexiscruz.pro@gmail.com)
 
@@ -40,4 +40,4 @@ Cloud and testing: Docker, GitHub Actions, AWS, Azure, Cloudflare Workers, Linux
 
 ## Work with me
 
-I'm open to remote contract and full-time work building AI agents and integrations. The fastest way to reach me is email.
+Open to remote contract and full-time work on AI agents and integrations. Email is fastest.
