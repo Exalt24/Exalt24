@@ -2,7 +2,7 @@
 
 **I build AI agents, then try to break them.**
 
-Multi-agent workflows, RAG services and the webhooks and APIs that hook them up to real businesses, in Python and TypeScript. I don't trust a safety check until I've deleted it and watched a test fail. Cebu, working remote.
+Multi-agent workflows, RAG services and the webhooks and APIs that hook them up to real businesses, in Python and TypeScript. I don't trust a safety check until I've deleted it and watched a test fail.
 
 Portfolio: [dacruz.vercel.app](https://dacruz.vercel.app) | LinkedIn: [dacruz24](https://linkedin.com/in/dacruz24) | Email: [danielalexiscruz.pro@gmail.com](mailto:danielalexiscruz.pro@gmail.com)
 
