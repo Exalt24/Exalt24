@@ -40,4 +40,4 @@ Cloud and testing: Docker, GitHub Actions, AWS, Azure, Cloudflare Workers, Linux
 
 ## Work with me
 
-Open to remote contract and full-time work on AI agents and integrations. Email is fastest.
+Got an agent, a RAG pipeline or an integration that keeps breaking in annoying ways? I'm open to remote contract and full-time work, and just as happy to talk a project through, swap ideas or team up on something fun. No pitch needed, just say hi. Email is the easiest way to reach me.
