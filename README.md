@@ -10,17 +10,17 @@ Portfolio: [dacruz.vercel.app](https://dacruz.vercel.app) | LinkedIn: [dacruz24]
 
 **[enterprise-rag-knowledge-base](https://github.com/Exalt24/enterprise-rag-knowledge-base)** is a FastAPI RAG service on Qdrant, with vector search, BM25 hybrid and optional reranking. The bug I'm happiest I found: ranking was putting the best results last. After the fix I re-measured, and hit-at-one is 85% for vector and 90% for hybrid over 20 questions. I also took torch out of the deployed image so it fits a 512 MB instance.
 
-**[multi-agent-research](https://github.com/Exalt24/multi-agent-research)**: seven LangGraph agents split a market research question between them. The fact checker can pause the run, so a person decides whether to continue.
+**[multi-agent-research](https://github.com/Exalt24/multi-agent-research)**: seven LangGraph agents split a market research question between them. The fact checker can pause the run, so a person decides whether to continue. One agent asked Groq's free tier for roughly 11,000 tokens a minute against an 8,000 ceiling and could never finish; its budgets are now named constants that sit under that ceiling.
 
-**[clio-matter-bridge](https://github.com/Exalt24/clio-matter-bridge)** connects to Clio with live OAuth. The webhook receiver is checked against real signed deliveries, and nothing that identifies a client gets sent to a language model. 265 assertions, and every guard has been deleted once to prove the suite notices.
+**[clio-matter-bridge](https://github.com/Exalt24/clio-matter-bridge)** connects to Clio with live OAuth. The webhook receiver is checked against real signed deliveries, and nothing that identifies a client gets sent to a language model. 265 assertions, and every test run deletes three guards to check the suite goes red.
 
 **[api-analytics-hub](https://github.com/Exalt24/api-analytics-hub)** pulls a live Shopify store into Postgres with row-level security per tenant. The isolation test caught a cross-tenant leak that came from a superuser connection. There's also an LLM copywriter that won't publish a number unless it's in the source facts. The hosted demo is offline.
 
-**[clinic-call-console](https://github.com/Exalt24/clinic-call-console)** is an Angular and Spring Boot console for reviewing voice-assistant calls. Details are masked on arrival. To reveal one, an admin has to give a reason, and the reveal is audited in the same transaction. Synthetic data only.
+**[clinic-call-console](https://github.com/Exalt24/clinic-call-console)** is an Angular and Spring Boot console for reviewing voice-assistant calls. Details are masked on arrival. To reveal one, an admin has to give a reason, and the reveal is audited in the same transaction. It has 71 Java tests and a script that breaks 28 guards one at a time to check they notice. Synthetic data only.
 
-**[ghl-tenant-bridge](https://github.com/Exalt24/ghl-tenant-bridge)**: GoHighLevel into Supabase, PostGIS radius matching, and an offline capture queue for field crews.
+**[ghl-tenant-bridge](https://github.com/Exalt24/ghl-tenant-bridge)**: GoHighLevel into Supabase, PostGIS radius matching, and an offline capture queue for field crews. A bounding box would have matched a property 67.2 km from a 50 km storm; the PostGIS distance check rejects it.
 
-**[AreteusML](https://github.com/Exalt24/AreteusML)** fine-tunes ModernBERT on Banking77 and reaches 91.3% accuracy. It's served as an ONNX INT8 model behind FastAPI, with drift reports and a Dagster pipeline.
+**[AreteusML](https://github.com/Exalt24/AreteusML)** fine-tunes ModernBERT on Banking77 and reaches 91.3% accuracy (the PyTorch model). It's served as an ONNX INT8 model behind FastAPI that answers in 10.11 ms against 45.66 ms for PyTorch; I did not re-score the INT8 model's accuracy.
 
 Earlier projects: [AutoFlow Pro](https://github.com/Exalt24/autoflow-pro) (browser automation), [NFT-Trading](https://github.com/Exalt24/NFT-Trading) (ERC-721 marketplace), [RataTutor](https://github.com/Exalt24/RataTutor) (an AI study platform I led with a team of 5) and [MAGSEL](https://github.com/Exalt24/MAGSEL) (research presented at WILLS 2025 in Kyoto).
 
