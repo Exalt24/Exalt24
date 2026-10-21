@@ -22,7 +22,7 @@ Portfolio: [dacruz.vercel.app](https://dacruz.vercel.app) | LinkedIn: [dacruz24]
 
 **[AreteusML](https://github.com/Exalt24/AreteusML)** fine-tunes ModernBERT on Banking77 and reaches 91.3% accuracy (the PyTorch model). It's served as an ONNX INT8 model behind FastAPI that answers in 10.11 ms against 45.66 ms for PyTorch; I did not re-score the INT8 model's accuracy.
 
-Earlier projects: [AutoFlow Pro](https://github.com/Exalt24/autoflow-pro) (browser automation), [NFT-Trading](https://github.com/Exalt24/NFT-Trading) (ERC-721 marketplace), [RataTutor](https://github.com/Exalt24/RataTutor) (an AI study platform I led with a team of 5) and [MAGSEL](https://github.com/Exalt24/MAGSEL) (research presented at WILLS 2025 in Kyoto).
+Earlier projects: [shopify-theme-lab](https://github.com/Exalt24/shopify-theme-lab) (a generated sale page turned into editable Shopify sections, tested through LiquidJS and Chromium), [AutoFlow Pro](https://github.com/Exalt24/autoflow-pro) (browser automation), [NFT-Trading](https://github.com/Exalt24/NFT-Trading) (ERC-721 marketplace), [RataTutor](https://github.com/Exalt24/RataTutor) (an AI study platform I led with a team of 5) and [MAGSEL](https://github.com/Exalt24/MAGSEL) (research presented at WILLS 2025 in Kyoto).
 
 ---
 
