@@ -8,7 +8,7 @@ Portfolio: [dacruz.vercel.app](https://dacruz.vercel.app) | LinkedIn: [dacruz24]
 
 ## Recent work
 
-**[enterprise-rag-knowledge-base](https://github.com/Exalt24/enterprise-rag-knowledge-base)** is a FastAPI RAG service on Qdrant, with vector search, BM25 hybrid and optional reranking. The bug I'm happiest I found: ranking was putting the best results last. After the fix I re-measured, and hit-at-one is 85% for vector and 90% for hybrid over 20 questions. I also took torch out of the deployed image so it fits a 512 MB instance.
+**[enterprise-rag-knowledge-base](https://github.com/Exalt24/enterprise-rag-knowledge-base)** is a FastAPI RAG service on Qdrant, with vector search, BM25 hybrid and optional reranking. The bug I'm happiest I found: ranking was putting the best results last. After the fix I built a rerunnable evaluation around it, with hit-at-k and MRR on a synthetic corpus, a pinned baseline and a mutation check that run in CI, so the next ranking bug fails a test. I also took torch out of the deployed image so it fits a 512 MB instance.
 
 **[multi-agent-research](https://github.com/Exalt24/multi-agent-research)**: seven LangGraph agents split a market research question between them. The fact checker can pause the run, so a person decides whether to continue. One agent asked Groq's free tier for roughly 11,000 tokens a minute against an 8,000 ceiling and could never finish; its budgets are now named constants that sit under that ceiling.
 
