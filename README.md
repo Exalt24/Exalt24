@@ -18,7 +18,7 @@ Portfolio: [dacruz.vercel.app](https://dacruz.vercel.app) | LinkedIn: [dacruz24]
 
 **[clinic-call-console](https://github.com/Exalt24/clinic-call-console)** is an Angular and Spring Boot console for reviewing voice-assistant calls. Details are masked on arrival. To reveal one, an admin has to give a reason, and the reveal is audited in the same transaction. It has 71 Java tests and a script that breaks 28 guards one at a time to check they notice. Synthetic data only.
 
-**[ghl-tenant-bridge](https://github.com/Exalt24/ghl-tenant-bridge)**: GoHighLevel into Supabase, a Cloudflare Worker receiver on D1 with a mutation-checked test suite, a Python relay that fans leads out to Slack, Make, Meta Conversions API and Google Sheets and pulls ad spend (built against vendor-documentation fakes, never a real account), PostGIS radius matching, and an offline capture queue for field crews. A bounding box would have matched a property 67.2 km from a 50 km storm; the PostGIS distance check rejects it.
+**[ghl-tenant-bridge](https://github.com/Exalt24/ghl-tenant-bridge)**: GoHighLevel into Supabase, a Cloudflare Worker receiver on D1 with a mutation-checked test suite, a Python relay that fans leads out to Slack, Make, Meta Conversions API and Google Sheets and pulls ad spend (built against vendor-documentation fakes, never a real account), Terraform for ECS Fargate and RDS Postgres (tested offline with a mocked provider and a 49-mutant harness, never applied to AWS), a Hasura GraphQL layer over the PostGIS tables, PostGIS radius matching, and an offline capture queue for field crews. A bounding box would have matched a property 67.2 km from a 50 km storm; the PostGIS distance check rejects it.
 
 **[AreteusML](https://github.com/Exalt24/AreteusML)** fine-tunes ModernBERT on Banking77 and reaches 91.3% accuracy (the PyTorch model). It's served as an ONNX INT8 model behind FastAPI that answers in 10.11 ms against 45.66 ms for PyTorch; I did not re-score the INT8 model's accuracy.
 
@@ -29,10 +29,10 @@ Earlier projects: [shopify-theme-lab](https://github.com/Exalt24/shopify-theme-l
 ## What I work with
 
 AI and agents: LangGraph, LangChain, tool calling, Model Context Protocol, RAG, Qdrant, Claude Code, Codex, PyTorch, ONNX Runtime.
-Backend: Python, TypeScript, Node.js, FastAPI, Django, Java, Spring Boot, PostgreSQL, MariaDB, Supabase, Redis.
+Backend: Python, TypeScript, Node.js, FastAPI, Django, Java, Spring Boot, GraphQL, Hasura, PostgreSQL, MariaDB, Supabase, Redis.
 Frontend: React, Next.js, Angular, Vue.js, Tailwind CSS.
 Automation and integration: n8n, Zapier, Playwright, webhooks, OAuth, Shopify, WordPress.
-Cloud and testing: Docker, GitHub Actions, AWS, Azure, Cloudflare Workers, Linux, pytest, Vitest, Testcontainers.
+Cloud and testing: Docker, Terraform, GitHub Actions, AWS (ECS Fargate), Azure, Cloudflare Workers, Linux, pytest, Vitest, Testcontainers.
 
 ---
 
