@@ -28,9 +28,11 @@ Earlier projects: [shopify-theme-lab](https://github.com/Exalt24/shopify-theme-l
 
 ---
 
+**[agent-harness-lab](https://github.com/Exalt24/agent-harness-lab)** is a small TypeScript agent harness for local models: loop guards, a context that keeps the full tool result retrievable, and an eval runner that scores a model with confidence intervals. On a 4B model it showed that setting the temperature mattered for tool choice, and that temperature 0 made one case a certain miss. A mutation check removes each guard in turn and a test has to fail.
+
 ## What I work with
 
-AI and agents: LangGraph, LangChain, tool calling, Model Context Protocol, RAG, Qdrant, Claude Code, Codex, PyTorch, ONNX Runtime.
+AI and agents: LangGraph, LangChain, tool calling, Model Context Protocol, RAG, Qdrant, Ollama, Claude Code, Codex, PyTorch, ONNX Runtime.
 Backend: Python, TypeScript, Node.js, FastAPI, Django, Java, Spring Boot, GraphQL, Hasura, PostgreSQL, MariaDB, Supabase, Redis.
 Frontend: React, Next.js, Angular, Vue.js, Tailwind CSS.
 Automation and integration: n8n, Zapier, Playwright, webhooks, OAuth, Shopify, WordPress.
