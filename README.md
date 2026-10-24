@@ -35,7 +35,7 @@ Earlier projects: [shopify-theme-lab](https://github.com/Exalt24/shopify-theme-l
 AI and agents: LangGraph, LangChain, tool calling, Model Context Protocol, RAG, Qdrant, Ollama, Claude Code, Codex, PyTorch, ONNX Runtime.
 Backend: Python, TypeScript, Node.js, FastAPI, Django, Java, Spring Boot, GraphQL, Hasura, PostgreSQL, MariaDB, Supabase, Redis.
 Frontend: React, Next.js, Angular, Vue.js, Tailwind CSS.
-Automation and integration: n8n, Zapier, Playwright, webhooks, OAuth, Shopify, WordPress.
+Automation and integration: n8n, Zapier, Playwright, Appium, webhooks, OAuth, Shopify, WordPress.
 Cloud and testing: Docker, Terraform, GitHub Actions, AWS (ECS Fargate), Azure, Cloudflare Workers, Linux, pytest, Vitest, Testcontainers.
 
 ---
