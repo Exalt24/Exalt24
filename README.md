@@ -8,6 +8,8 @@ Portfolio: [dacruz.vercel.app](https://dacruz.vercel.app) | LinkedIn: [dacruz24]
 
 ## Recent work
 
+**[roofing-site-lab](https://github.com/Exalt24/roofing-site-lab)** is an Astro and Sanity contractor site on Cloudflare Pages whose build refuses dead links, orphan pages and near-duplicate pages, on invented jobs and photos. It also holds a redirect map tool for moving a site off a builder: it writes the Cloudflare redirects file with every 301 spelled out and refuses chains, loops and any rule that would hide a live page. Served through Cloudflare's own local runtime, it showed an old .html address returning a 404, now fixed, and two independent passes tried to break it. It has not moved a client's site.
+
 **[enterprise-rag-knowledge-base](https://github.com/Exalt24/enterprise-rag-knowledge-base)** is a FastAPI RAG service on Qdrant, with vector search, BM25 hybrid and optional reranking. The bug I'm happiest I found: ranking was putting the best results last. After the fix I built a rerunnable evaluation around it, with hit-at-k and MRR on a synthetic corpus, a pinned baseline and a mutation check that run in CI, so the next ranking bug fails a test. It also has a read-only MCP server and an agent skill, so Claude Code can search the knowledge base and cite the chunk each answer came from. I also took torch out of the deployed image so it fits a 512 MB instance.
 
 **[multi-agent-research](https://github.com/Exalt24/multi-agent-research)**: seven LangGraph agents split a market research question between them. The fact checker can pause the run, so a person decides whether to continue. One agent asked Groq's free tier for roughly 11,000 tokens a minute against an 8,000 ceiling and could never finish; its budgets are now named constants that sit under that ceiling.
@@ -34,9 +36,9 @@ Earlier projects: [shopify-theme-lab](https://github.com/Exalt24/shopify-theme-l
 
 AI and agents: LangGraph, LangChain, tool calling, Model Context Protocol, RAG, Qdrant, Ollama, Claude Code, Codex, PyTorch, ONNX Runtime.
 Backend: Python, TypeScript, Node.js, FastAPI, Django, Java, Spring Boot, GraphQL, Hasura, PostgreSQL, MariaDB, Supabase, Redis, PDF data extraction.
-Frontend: React, Next.js, Angular, Vue.js, Tailwind CSS.
+Frontend and web: React, Next.js, Astro, Angular, Vue.js, Tailwind CSS, technical SEO, Redirect Management.
 Automation and integration: n8n, Zapier, Playwright, Appium, webhooks, OAuth, Shopify, WordPress.
-Cloud and testing: Docker, Terraform, GitHub Actions, AWS (ECS Fargate), Azure, Cloudflare Workers, Linux, pytest, Vitest, Testcontainers.
+Cloud and testing: Docker, Terraform, GitHub Actions, AWS (ECS Fargate), Azure, Cloudflare Pages and Workers, Linux, pytest, Vitest, Testcontainers.
 
 ---
 
