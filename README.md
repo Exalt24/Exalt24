@@ -39,7 +39,7 @@ Earlier projects: [shopify-theme-lab](https://github.com/Exalt24/shopify-theme-l
 ## What I work with
 
 AI and agents: LangGraph, LangChain, tool calling, Model Context Protocol, RAG, Qdrant, voice agents, Pipecat, Ollama, Claude Code, Codex, PyTorch, ONNX Runtime.
-Backend: Python, TypeScript, Node.js, FastAPI, Django, Django REST Framework, Java, Spring Boot, GraphQL, Hasura, SIP, RTP, PostgreSQL, MariaDB, Supabase, Redis, Meilisearch, PDF data extraction.
+Backend: Python, TypeScript, Node.js, FastAPI, Django, Django REST Framework, Java, Spring Boot, GraphQL, Hasura, SIP, RTP, DTMF, PostgreSQL, MariaDB, Supabase, Redis, Meilisearch, PDF data extraction.
 Frontend and web: React, Next.js, Astro, Angular, Vue.js, Tailwind CSS, technical SEO, Redirect Management.
 Automation and integration: n8n, Zapier, Meta Ads API, Google Analytics 4, Google Search Console API, Playwright, Appium, SOAP, SFTP, EDI X12, web scraping, webhooks, OAuth, Shopify, JobNimbus, WordPress.
 Cloud and testing: Docker, Terraform, GitHub Actions, AWS (ECS Fargate), Azure, Cloudflare Pages and Workers, Linux, pytest, Vitest, Testcontainers.
