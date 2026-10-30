@@ -36,7 +36,7 @@ Earlier projects: [tillcarry](https://github.com/Exalt24/tillcarry) (a salvage-o
 
 AI and agents: LangGraph, LangChain, tool calling, Model Context Protocol, RAG, Qdrant, voice agents, Pipecat, Ollama, Vertex AI, Claude Code, Codex, PyTorch, ONNX Runtime.
 Backend: Python, TypeScript, Node.js, Express, NestJS, FastAPI, Django, Django REST Framework, Java, Spring Boot, GraphQL, Hasura, SIP, RTP, DTMF, PostgreSQL, MongoDB, Sequelize, TypeORM, MySQL, MariaDB, legacy modernization, data migration, Supabase, Redis, Meilisearch, PDF data extraction.
-Frontend and web: React, Next.js, Astro, Angular, Vue.js, Tailwind CSS, technical SEO, Redirect Management.
+Frontend and web: React, Next.js, Astro, Angular, Vue.js, Tailwind CSS, Figma, technical SEO, Redirect Management.
 Automation and integration: n8n, Zapier, Zoho CRM API, Zoho Inventory API, enquiry routing, lead capture, price monitoring, Billing Ledgers, Meta Ads API, Google Analytics 4, Google Search Console API, Playwright, Appium, SOAP, SFTP, EDI X12, web scraping, webhooks, OAuth, Shopify, JobNimbus, WordPress.
 Cloud and testing: Docker, Terraform, GitHub Actions, GitLab CI/CD, Azure DevOps Pipelines, AWS (S3, IAM, ECS Fargate), Azure, Google Cloud Run, Netlify, Cloudflare Pages and Workers, Firebase Auth, Linux, pytest, Vitest, Testcontainers.
 
